@@ -4,6 +4,22 @@
 ![image](https://github.com/user-attachments/assets/c982fe61-71cc-4102-becd-dbb4581d98f3)
 
 
+In today's fast-paced development environments, speed without security is a risk. DevSecOps—short for Development, Security, and Operations—is a modern approach that ensures security is not an afterthought, but a shared responsibility integrated into every phase of the software development lifecycle (SDLC).
+
+🚀 Why DevSecOps?
+
+Shifts security left: Detect and fix vulnerabilities early, not in production.
+
+Fosters collaboration between developers, operations, and security teams.
+
+Automates security checks using CI/CD pipelines to prevent delays.
+
+Reduces risk of data breaches and compliance violations.
+
+Builds secure software faster and more confidently.
+
+🛡️ DevSecOps empowers teams to deliver resilient, secure, and scalable applications without sacrificing speed.
+
 ## Features
 
 - 🎮 Fully functional Tic Tac Toe game
